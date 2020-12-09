@@ -1,0 +1,6 @@
+eigen3
+pangolin
+ceres
+g2o
+opencv
+sophus
